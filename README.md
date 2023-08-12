@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DorcasOla
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in providing IT solutions especially in the Health Industry. 
 - 🌱 I’m currently learning to become a full-stack engineer
-- 💞️ I want to collaborate on building cutting-edge, dynamic, and responsive applications, providing IT solutions especially in the Health Industry. 
+- 💞️ I want to collaborate on building cutting-edge, dynamic, and responsive applications. 
 - 📫 How to reach me dorcasolatunde89@gmail.com
 
 <!---
